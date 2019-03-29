@@ -12,6 +12,5 @@ The program system will include the following item:
  4) edit the details of an existing employee;
  5) search for all employees with a salary higher than or lower than a user input;
  6) allow adding user-defined attributes,s, the value of a new attribute of the existing employee should be empty or undefined;
- 
- 7)company can use a equation to quantify the Productivity or Contribution level by using those employees data such as age, Contributing times history.
+ 7) company can use a equation to quantify the Productivity or Contribution level by using those employees data such as age, Contributing times history.
  
